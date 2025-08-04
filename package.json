@@ -10,10 +10,8 @@
   },
   "dependencies": {
     "@vercel/speed-insights": "^1.2.0",
-    "canvas-confetti": "^1.9.3",
     "motion": "^12.20.1",
     "next": "15.3.4",
-    "popmotion": "^11.0.5",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
