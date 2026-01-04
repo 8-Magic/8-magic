@@ -66,8 +66,11 @@ export default function Home() {
 				<Button handleClick={() => newtab("https://api.8.alialmasi.ir")}>
 					8-Magic API
 				</Button>
-				<Button handleClick={() => newtab("https://github.com/8-Magic")}>
+				<Button handleClick={() => newtab("https://github.8.alialmasi.ir")}>
 					GitHub
+				</Button>
+				<Button handleClick={() => newtab("https://license.8.alialmasi.ir")}>
+					License
 				</Button>
 			</div>
 		</div>
